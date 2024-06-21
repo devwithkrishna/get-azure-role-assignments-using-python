@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "get-azure-role-assignments-using-python"
+version = "0.1.0"
+description = ""
+authors = ["githubofkrishnadhas <krishnadhasnk1997@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+azure-identity = "^1.16.1"
+argparse = "^1.4.0"
+python-dotenv = "^1.0.1"
+azure-mgmt-resource = "^23.1.1"
+azure-mgmt-authorization = "^4.0.0"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
