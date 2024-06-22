@@ -61,7 +61,7 @@ python3 role_assignments.py --subscription_id <subscription id>
 
 ## Refernces
 
-[role-assignments-list](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-rest)
-[role-based-access-control built-in-roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
-[AuthorizationManagementClient](https://learn.microsoft.com/en-us/rest/api/authorization/role-definitions/get?view=rest-authorization-2022-04-01&tabs=Python)
-[azure graph rbac](https://learn.microsoft.com/en-us/python/api/azure-graphrbac/azure.graphrbac.operations.service_principals_operations.serviceprincipalsoperations?view=azure-python-previous#azure-graphrbac-operations-service-principals-operations-serviceprincipalsoperations-get)
+* [role-assignments-list](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-rest)
+* [role-based-access-control built-in-roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
+* [AuthorizationManagementClient](https://learn.microsoft.com/en-us/rest/api/authorization/role-definitions/get?view=rest-authorization-2022-04-01&tabs=Python)
+* [azure graph rbac](https://learn.microsoft.com/en-us/python/api/azure-graphrbac/azure.graphrbac.operations.service_principals_operations.serviceprincipalsoperations?view=azure-python-previous#azure-graphrbac-operations-service-principals-operations-serviceprincipalsoperations-get)
