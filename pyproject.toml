@@ -7,12 +7,14 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-azure-identity = "^1.16.1"
+azure-identity = "^1.17.1"
 argparse = "^1.4.0"
 python-dotenv = "^1.0.1"
 azure-mgmt-resource = "^23.1.1"
 azure-mgmt-authorization = "^4.0.0"
 requests = "^2.32.3"
+azure-graphrbac = "^0.61.1"
+azure-common = "^1.1.28"
 
 
 [build-system]
